@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukul Tiwari</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukultiwari02" alt="mukultiwari02" /></a> </p>
-
-- 🌱 I’m currently learning **MERN Stack development, C++, Java, some javascript frameworks and libraries.**
+- 🌱 I’m currently learning **MERN Stack development, C++, Java and some javascript frameworks and libraries.**
 
 - 👨‍💻 All of my projects are available at [https://mukultiwari02.github.io/Portfolio.github.io/](https://mukultiwari02.github.io/Portfolio.github.io/)
 
@@ -30,3 +28,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukultiwari02&" alt="mukultiwari02" /></p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mukultiwari02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mukultiwari02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukultiwari02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mukultiwari02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mukultiwari02&icon=5&color=0)](https://visitcount.itsvg.in)
